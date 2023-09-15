@@ -10,6 +10,7 @@ class Program
         int c = 4825932;
         sbyte d = 97;
         short e = -10000;
+        
         Console.WriteLine(a);
         Console.WriteLine(b);
         Console.WriteLine(c);
