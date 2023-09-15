@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.pdb

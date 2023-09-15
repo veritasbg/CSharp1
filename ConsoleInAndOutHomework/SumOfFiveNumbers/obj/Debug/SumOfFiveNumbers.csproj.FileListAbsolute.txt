@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.pdb
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.pdb

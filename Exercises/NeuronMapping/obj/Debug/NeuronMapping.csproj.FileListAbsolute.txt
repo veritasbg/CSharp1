@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\Exercises\NeuronMapping\bin\Debug\NeuronMapping.exe.config
+D:\Downloads on D\Telerik\Exercises\NeuronMapping\bin\Debug\NeuronMapping.exe
+D:\Downloads on D\Telerik\Exercises\NeuronMapping\bin\Debug\NeuronMapping.pdb
+D:\Downloads on D\Telerik\Exercises\NeuronMapping\obj\Debug\NeuronMapping.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\Exercises\NeuronMapping\obj\Debug\NeuronMapping.exe
+D:\Downloads on D\Telerik\Exercises\NeuronMapping\obj\Debug\NeuronMapping.pdb

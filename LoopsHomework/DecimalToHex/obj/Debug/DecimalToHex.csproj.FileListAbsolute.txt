@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\LoopsHomework\DecimalToHex\bin\Debug\DecimalToHex.exe.config
+D:\Downloads on D\Telerik\LoopsHomework\DecimalToHex\bin\Debug\DecimalToHex.exe
+D:\Downloads on D\Telerik\LoopsHomework\DecimalToHex\bin\Debug\DecimalToHex.pdb
+D:\Downloads on D\Telerik\LoopsHomework\DecimalToHex\obj\Debug\DecimalToHex.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\LoopsHomework\DecimalToHex\obj\Debug\DecimalToHex.exe
+D:\Downloads on D\Telerik\LoopsHomework\DecimalToHex\obj\Debug\DecimalToHex.pdb

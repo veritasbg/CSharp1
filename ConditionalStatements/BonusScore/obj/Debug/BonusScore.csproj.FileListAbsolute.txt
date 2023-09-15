@@ -1,0 +1,12 @@
+D:\Downloads on D\Telerik\ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+D:\Downloads on D\Telerik\ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
+D:\Downloads on D\Telerik\ConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
+D:\Downloads on D\Telerik\ConditionalStatements\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\ConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+D:\Downloads on D\Telerik\ConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache

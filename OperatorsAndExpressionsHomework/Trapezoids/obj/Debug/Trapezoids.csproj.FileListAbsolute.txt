@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Trapezoids\bin\Debug\Trapezoids.exe.config
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Trapezoids\bin\Debug\Trapezoids.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Trapezoids\bin\Debug\Trapezoids.pdb
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Trapezoids\obj\Debug\Trapezoids.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Trapezoids\obj\Debug\Trapezoids.pdb

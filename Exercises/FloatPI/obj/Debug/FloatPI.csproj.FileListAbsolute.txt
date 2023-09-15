@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\Exercises\FloatPI\bin\Debug\FloatPI.exe.config
+D:\Downloads on D\Telerik\Exercises\FloatPI\bin\Debug\FloatPI.exe
+D:\Downloads on D\Telerik\Exercises\FloatPI\bin\Debug\FloatPI.pdb
+D:\Downloads on D\Telerik\Exercises\FloatPI\obj\Debug\FloatPI.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\Exercises\FloatPI\obj\Debug\FloatPI.exe
+D:\Downloads on D\Telerik\Exercises\FloatPI\obj\Debug\FloatPI.pdb

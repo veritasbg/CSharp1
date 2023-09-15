@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\Exercises\Printing\bin\Debug\Printing.exe.config
+D:\Downloads on D\Telerik\Exercises\Printing\bin\Debug\Printing.exe
+D:\Downloads on D\Telerik\Exercises\Printing\bin\Debug\Printing.pdb
+D:\Downloads on D\Telerik\Exercises\Printing\obj\Debug\Printing.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\Exercises\Printing\obj\Debug\Printing.exe
+D:\Downloads on D\Telerik\Exercises\Printing\obj\Debug\Printing.pdb

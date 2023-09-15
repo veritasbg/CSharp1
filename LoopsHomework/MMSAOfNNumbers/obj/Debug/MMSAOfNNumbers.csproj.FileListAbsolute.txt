@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\LoopsHomework\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.exe.config
+D:\Downloads on D\Telerik\LoopsHomework\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.exe
+D:\Downloads on D\Telerik\LoopsHomework\MMSAOfNNumbers\bin\Debug\MMSAOfNNumbers.pdb
+D:\Downloads on D\Telerik\LoopsHomework\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\LoopsHomework\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.exe
+D:\Downloads on D\Telerik\LoopsHomework\MMSAOfNNumbers\obj\Debug\MMSAOfNNumbers.pdb

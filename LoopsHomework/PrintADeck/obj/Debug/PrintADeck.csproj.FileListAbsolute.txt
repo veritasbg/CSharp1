@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.exe.config
+D:\Downloads on D\Telerik\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.exe
+D:\Downloads on D\Telerik\LoopsHomework\PrintADeck\bin\Debug\PrintADeck.pdb
+D:\Downloads on D\Telerik\LoopsHomework\PrintADeck\obj\Debug\PrintADeck.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\LoopsHomework\PrintADeck\obj\Debug\PrintADeck.exe
+D:\Downloads on D\Telerik\LoopsHomework\PrintADeck\obj\Debug\PrintADeck.pdb

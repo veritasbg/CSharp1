@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\ConditionalStatements\PlayCard\bin\Debug\PlayCard.exe.config
+D:\Downloads on D\Telerik\ConditionalStatements\PlayCard\bin\Debug\PlayCard.exe
+D:\Downloads on D\Telerik\ConditionalStatements\PlayCard\bin\Debug\PlayCard.pdb
+D:\Downloads on D\Telerik\ConditionalStatements\PlayCard\obj\Debug\PlayCard.exe
+D:\Downloads on D\Telerik\ConditionalStatements\PlayCard\obj\Debug\PlayCard.pdb

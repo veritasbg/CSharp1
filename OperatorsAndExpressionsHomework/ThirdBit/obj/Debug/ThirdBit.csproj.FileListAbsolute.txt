@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdBit\bin\Debug\ThirdBit.exe.config
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdBit\bin\Debug\ThirdBit.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdBit\bin\Debug\ThirdBit.pdb
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdBit\obj\Debug\ThirdBit.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdBit\obj\Debug\ThirdBit.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdBit\obj\Debug\ThirdBit.pdb

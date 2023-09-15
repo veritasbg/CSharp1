@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ModifyBit\bin\Debug\ModifyBit.exe.config
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ModifyBit\bin\Debug\ModifyBit.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ModifyBit\bin\Debug\ModifyBit.pdb
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ModifyBit\obj\Debug\ModifyBit.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ModifyBit\obj\Debug\ModifyBit.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ModifyBit\obj\Debug\ModifyBit.pdb

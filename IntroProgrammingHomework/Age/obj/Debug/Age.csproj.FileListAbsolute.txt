@@ -1,0 +1,9 @@
+D:\Downloads on D\Telerik\IntroProgrammingHomework\Age\bin\Debug\Age.exe.config
+D:\Downloads on D\Telerik\IntroProgrammingHomework\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\IntroProgrammingHomework\Age\bin\Debug\Age.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\Age\bin\Debug\Age.pdb
+D:\Downloads on D\Telerik\IntroProgrammingHomework\Age\obj\Debug\Age.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\Age\obj\Debug\Age.pdb
+D:\Downloads on D\Telerik\Git\CSharp1\IntroProgrammingHomework\Age\bin\Debug\Age.exe.config
+D:\Downloads on D\Telerik\Git\CSharp1\IntroProgrammingHomework\Age\obj\Debug\Age.exe
+D:\Downloads on D\Telerik\Git\CSharp1\IntroProgrammingHomework\Age\obj\Debug\Age.pdb

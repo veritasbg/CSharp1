@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\Exercises\Decoding1\bin\Debug\Decoding1.exe.config
+D:\Downloads on D\Telerik\Exercises\Decoding1\bin\Debug\Decoding1.exe
+D:\Downloads on D\Telerik\Exercises\Decoding1\bin\Debug\Decoding1.pdb
+D:\Downloads on D\Telerik\Exercises\Decoding1\obj\Debug\Decoding1.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\Exercises\Decoding1\obj\Debug\Decoding1.exe
+D:\Downloads on D\Telerik\Exercises\Decoding1\obj\Debug\Decoding1.pdb

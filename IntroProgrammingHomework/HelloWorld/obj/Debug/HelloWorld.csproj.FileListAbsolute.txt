@@ -1,0 +1,13 @@
+D:\Downloads on D\Telerik\IntroProgrammingHomework\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Downloads on D\Telerik\IntroProgrammingHomework\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Downloads on D\Telerik\IntroProgrammingHomework\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\IntroProgrammingHomework\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\HelloWorld\obj\Debug\HelloWorld.pdb

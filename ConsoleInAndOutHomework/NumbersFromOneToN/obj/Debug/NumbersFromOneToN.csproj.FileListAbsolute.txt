@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

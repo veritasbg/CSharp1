@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\Exercises\Tribonacci\bin\Debug\Tribonacci.exe.config
+D:\Downloads on D\Telerik\Exercises\Tribonacci\bin\Debug\Tribonacci.exe
+D:\Downloads on D\Telerik\Exercises\Tribonacci\bin\Debug\Tribonacci.pdb
+D:\Downloads on D\Telerik\Exercises\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\Exercises\Tribonacci\obj\Debug\Tribonacci.exe
+D:\Downloads on D\Telerik\Exercises\Tribonacci\obj\Debug\Tribonacci.pdb

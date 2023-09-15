@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

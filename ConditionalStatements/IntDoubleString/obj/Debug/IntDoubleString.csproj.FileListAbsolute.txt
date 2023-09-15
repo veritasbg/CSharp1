@@ -1,0 +1,11 @@
+D:\Downloads on D\Telerik\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.exe.config
+D:\Downloads on D\Telerik\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.exe
+D:\Downloads on D\Telerik\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.pdb
+D:\Downloads on D\Telerik\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.exe
+D:\Downloads on D\Telerik\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.pdb
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.exe.config
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.exe
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.pdb
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.exe
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\IntDoubleString\bin\Debug\IntDoubleString.pdb
+D:\Downloads on D\Software\Telerik\CSharp1\ConditionalStatements\IntDoubleString\obj\Debug\IntDoubleString.csprojResolveAssemblyReference.cache

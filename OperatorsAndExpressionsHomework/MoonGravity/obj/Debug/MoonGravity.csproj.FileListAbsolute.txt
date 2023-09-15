@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\MoonGravity\bin\Debug\MoonGravity.exe.config
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\MoonGravity\bin\Debug\MoonGravity.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\MoonGravity\bin\Debug\MoonGravity.pdb
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\MoonGravity\obj\Debug\MoonGravity.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\MoonGravity\obj\Debug\MoonGravity.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\MoonGravity\obj\Debug\MoonGravity.pdb

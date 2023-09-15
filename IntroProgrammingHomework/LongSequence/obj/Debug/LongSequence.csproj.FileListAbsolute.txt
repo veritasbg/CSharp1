@@ -1,0 +1,13 @@
+D:\Downloads on D\Telerik\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.exe.config
+D:\Downloads on D\Telerik\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.pdb
+D:\Downloads on D\Telerik\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.pdb

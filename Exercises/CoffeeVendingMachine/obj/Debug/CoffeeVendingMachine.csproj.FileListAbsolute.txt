@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\Exercises\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe.config
+D:\Downloads on D\Telerik\Exercises\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe
+D:\Downloads on D\Telerik\Exercises\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.pdb
+D:\Downloads on D\Telerik\Exercises\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\Exercises\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.exe
+D:\Downloads on D\Telerik\Exercises\CoffeeVendingMachine\obj\Debug\CoffeeVendingMachine.pdb

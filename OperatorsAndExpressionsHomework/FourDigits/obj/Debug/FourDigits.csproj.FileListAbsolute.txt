@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\FourDigits\bin\Debug\FourDigits.exe.config
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\FourDigits\bin\Debug\FourDigits.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\FourDigits\bin\Debug\FourDigits.pdb
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\FourDigits\obj\Debug\FourDigits.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\FourDigits\obj\Debug\FourDigits.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\FourDigits\obj\Debug\FourDigits.pdb

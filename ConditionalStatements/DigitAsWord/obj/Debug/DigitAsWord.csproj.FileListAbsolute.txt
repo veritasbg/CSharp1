@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+D:\Downloads on D\Telerik\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\Downloads on D\Telerik\ConditionalStatements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\Downloads on D\Telerik\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.exe
+D:\Downloads on D\Telerik\ConditionalStatements\DigitAsWord\obj\Debug\DigitAsWord.pdb

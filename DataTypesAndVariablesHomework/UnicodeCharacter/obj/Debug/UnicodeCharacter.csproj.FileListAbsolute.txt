@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

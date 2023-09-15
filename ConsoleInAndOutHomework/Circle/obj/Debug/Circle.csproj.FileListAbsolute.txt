@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\bin\Debug\Circle.exe.config
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\bin\Debug\Circle.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\bin\Debug\Circle.pdb
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.pdb

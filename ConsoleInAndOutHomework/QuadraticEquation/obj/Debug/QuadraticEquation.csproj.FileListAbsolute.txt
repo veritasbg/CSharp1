@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

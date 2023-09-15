@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\NthBit\bin\Debug\NthBit.exe.config
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\NthBit\bin\Debug\NthBit.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\NthBit\bin\Debug\NthBit.pdb
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\NthBit\obj\Debug\NthBit.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\NthBit\obj\Debug\NthBit.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\NthBit\obj\Debug\NthBit.pdb

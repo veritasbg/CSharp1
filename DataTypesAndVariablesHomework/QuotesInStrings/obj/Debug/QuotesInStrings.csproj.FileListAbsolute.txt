@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

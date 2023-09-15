@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdDigit\bin\Debug\ThirdDigit.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdDigit\bin\Debug\ThirdDigit.pdb
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdDigit\obj\Debug\ThirdDigit.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\ThirdDigit\obj\Debug\ThirdDigit.pdb

@@ -1,0 +1,11 @@
+D:\Downloads on D\Telerik\IntroProgrammingHomework\FirstLastName\bin\Debug\FirstLastName.exe.config
+D:\Downloads on D\Telerik\IntroProgrammingHomework\FirstLastName\bin\Debug\FirstLastName.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\FirstLastName\bin\Debug\FirstLastName.pdb
+D:\Downloads on D\Telerik\IntroProgrammingHomework\FirstLastName\obj\Debug\FirstLastName.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\FirstLastName\obj\Debug\FirstLastName.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\FirstLastName\bin\Debug\FirstLastName.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\FirstLastName\bin\Debug\FirstLastName.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\FirstLastName\bin\Debug\FirstLastName.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\FirstLastName\obj\Debug\FirstLastName.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\FirstLastName\obj\Debug\FirstLastName.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\IntroProgrammingHomework\FirstLastName\obj\Debug\FirstLastName.pdb

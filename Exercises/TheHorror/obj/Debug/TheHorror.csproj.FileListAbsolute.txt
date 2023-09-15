@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\Exercises\TheHorror\bin\Debug\TheHorror.exe.config
+D:\Downloads on D\Telerik\Exercises\TheHorror\bin\Debug\TheHorror.exe
+D:\Downloads on D\Telerik\Exercises\TheHorror\bin\Debug\TheHorror.pdb
+D:\Downloads on D\Telerik\Exercises\TheHorror\obj\Debug\TheHorror.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\Exercises\TheHorror\obj\Debug\TheHorror.exe
+D:\Downloads on D\Telerik\Exercises\TheHorror\obj\Debug\TheHorror.pdb

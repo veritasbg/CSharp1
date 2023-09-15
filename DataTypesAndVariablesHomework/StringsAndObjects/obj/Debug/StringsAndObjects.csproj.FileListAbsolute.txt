@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\IntroProgrammingHomework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Downloads on D\Telerik\IntroProgrammingHomework\PrintMyName\bin\Debug\PrintMyName.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\Downloads on D\Telerik\IntroProgrammingHomework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Downloads on D\Telerik\IntroProgrammingHomework\PrintMyName\obj\Debug\PrintMyName.pdb

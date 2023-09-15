@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\Exercises\Cube\bin\Debug\Cube.exe.config
+D:\Downloads on D\Telerik\Exercises\Cube\bin\Debug\Cube.exe
+D:\Downloads on D\Telerik\Exercises\Cube\bin\Debug\Cube.pdb
+D:\Downloads on D\Telerik\Exercises\Cube\obj\Debug\Cube.exe
+D:\Downloads on D\Telerik\Exercises\Cube\obj\Debug\Cube.pdb

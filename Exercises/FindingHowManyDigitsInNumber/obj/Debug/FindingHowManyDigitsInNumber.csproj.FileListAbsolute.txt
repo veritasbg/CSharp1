@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\Exercises\FindingHowManyDigitsInNumber\bin\Debug\FindingHowManyDigitsInNumber.exe.config
+D:\Downloads on D\Telerik\Exercises\FindingHowManyDigitsInNumber\bin\Debug\FindingHowManyDigitsInNumber.exe
+D:\Downloads on D\Telerik\Exercises\FindingHowManyDigitsInNumber\bin\Debug\FindingHowManyDigitsInNumber.pdb
+D:\Downloads on D\Telerik\Exercises\FindingHowManyDigitsInNumber\obj\Debug\FindingHowManyDigitsInNumber.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\Exercises\FindingHowManyDigitsInNumber\obj\Debug\FindingHowManyDigitsInNumber.exe
+D:\Downloads on D\Telerik\Exercises\FindingHowManyDigitsInNumber\obj\Debug\FindingHowManyDigitsInNumber.pdb

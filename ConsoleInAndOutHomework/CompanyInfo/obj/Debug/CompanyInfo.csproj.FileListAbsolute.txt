@@ -1,0 +1,6 @@
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\CompanyInfo\bin\Debug\CompanyInfo.pdb
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\CompanyInfo\obj\Debug\CompanyInfo.csprojResolveAssemblyReference.cache
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\CompanyInfo\obj\Debug\CompanyInfo.exe
+D:\Downloads on D\Telerik\ConsoleInAndOutHomework\CompanyInfo\obj\Debug\CompanyInfo.pdb

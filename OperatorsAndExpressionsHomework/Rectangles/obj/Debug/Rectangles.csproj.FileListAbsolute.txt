@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Rectangles\bin\Debug\Rectangles.exe.config
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Rectangles\bin\Debug\Rectangles.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Rectangles\bin\Debug\Rectangles.pdb
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Rectangles\obj\Debug\Rectangles.exe
+D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\Rectangles\obj\Debug\Rectangles.pdb

@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\Exercises\FighterAttack\bin\Debug\FighterAttack.exe.config
+D:\Downloads on D\Telerik\Exercises\FighterAttack\bin\Debug\FighterAttack.exe
+D:\Downloads on D\Telerik\Exercises\FighterAttack\bin\Debug\FighterAttack.pdb
+D:\Downloads on D\Telerik\Exercises\FighterAttack\obj\Debug\FighterAttack.exe
+D:\Downloads on D\Telerik\Exercises\FighterAttack\obj\Debug\FighterAttack.pdb

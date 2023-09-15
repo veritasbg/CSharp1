@@ -1,0 +1,5 @@
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
