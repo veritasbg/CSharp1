@@ -4,3 +4,10 @@ D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\OddOrEven\bin\Debug\Od
 D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
 D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\OddOrEven\obj\Debug\OddOrEven.exe
 D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\OddOrEven\obj\Debug\OddOrEven.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\OddOrEven\obj\Debug\OddOrEven.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\OddOrEven\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\OddOrEven\obj\Debug\OddOrEven.pdb

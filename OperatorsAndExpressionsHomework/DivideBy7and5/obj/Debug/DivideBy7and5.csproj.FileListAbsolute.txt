@@ -4,3 +4,10 @@ D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\DivideBy7and5\bin\Debu
 D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\DivideBy7and5\obj\Debug\DivideBy7and5.csprojResolveAssemblyReference.cache
 D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\DivideBy7and5\obj\Debug\DivideBy7and5.exe
 D:\Downloads on D\Telerik\OperatorsAndExpressionsHomework\DivideBy7and5\obj\Debug\DivideBy7and5.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\DivideBy7and5\bin\Debug\DivideBy7and5.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\DivideBy7and5\bin\Debug\DivideBy7and5.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\DivideBy7and5\bin\Debug\DivideBy7and5.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\DivideBy7and5\obj\Debug\DivideBy7and5.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\DivideBy7and5\obj\Debug\DivideBy7and5.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\DivideBy7and5\obj\Debug\DivideBy7and5.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\OperatorsAndExpressionsHomework\DivideBy7and5\obj\Debug\DivideBy7and5.pdb
