@@ -7,7 +7,7 @@ D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\DeclareVariables\obj\Deb
 D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.exe.config
 D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.exe
 D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.pdb
-D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.csprojAssemblyReference.cache
 D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.csproj.CoreCompileInputs.cache
 D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.exe
 D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.csproj.AssemblyReference.cache

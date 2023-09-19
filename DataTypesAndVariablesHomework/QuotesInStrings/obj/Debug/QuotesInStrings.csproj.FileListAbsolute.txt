@@ -3,3 +3,10 @@ D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debu
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

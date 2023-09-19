@@ -3,3 +3,10 @@ D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\bin\Deb
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

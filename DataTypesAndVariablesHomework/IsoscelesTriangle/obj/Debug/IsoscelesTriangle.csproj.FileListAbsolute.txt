@@ -3,3 +3,10 @@ D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\De
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

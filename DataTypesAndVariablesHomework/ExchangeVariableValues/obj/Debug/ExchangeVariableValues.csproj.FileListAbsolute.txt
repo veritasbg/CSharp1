@@ -3,3 +3,10 @@ D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\ExchangeVariableValues\b
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

@@ -4,3 +4,10 @@ D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\bin\Debu
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.csprojResolveAssemblyReference.cache
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.exe
 D:\Downloads on D\Telerik\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\DataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.pdb
