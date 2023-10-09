@@ -4,3 +4,10 @@ D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\bin\Debug\Circle.pdb
 D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
 D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.exe
 D:\Downloads on D\Telerik\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\ConsoleInAndOutHomework\Circle\bin\Debug\Circle.exe.config
+D:\Downloads on D\Software on D\Telerik\CSharp1\ConsoleInAndOutHomework\Circle\bin\Debug\Circle.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\ConsoleInAndOutHomework\Circle\bin\Debug\Circle.pdb
+D:\Downloads on D\Software on D\Telerik\CSharp1\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.csproj.AssemblyReference.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+D:\Downloads on D\Software on D\Telerik\CSharp1\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.exe
+D:\Downloads on D\Software on D\Telerik\CSharp1\ConsoleInAndOutHomework\Circle\obj\Debug\Circle.pdb
